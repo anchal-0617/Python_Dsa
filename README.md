@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anchal-0617/Python_Dsa/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/anchal-0617/Python_Dsa/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0328-odd-even-linked-list) |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anchal-0617/Python_Dsa/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anchal-0617/Python_Dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
