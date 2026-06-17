@@ -10,7 +10,7 @@ class Solution(object):
 
         n = len(s)
 
-        t = [[False] * n for _ in range(n)]
+        t = [[0] * n for _ in range(n)]
         count = 0
 
         for l in range (1,n+1):
