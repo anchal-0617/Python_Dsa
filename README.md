@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/anchal-0617/Python_Dsa/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/anchal-0617/Python_Dsa/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
