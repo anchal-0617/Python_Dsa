@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anchal-0617/Python_Dsa/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anchal-0617/Python_Dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anchal-0617/Python_Dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anchal-0617/Python_Dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anchal-0617/Python_Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anchal-0617/Python_Dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
