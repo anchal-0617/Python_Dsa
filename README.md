@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0328-odd-even-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1367-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/anchal-0617/Python_Dsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/anchal-0617/Python_Dsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/anchal-0617/Python_Dsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
