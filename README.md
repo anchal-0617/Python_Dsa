@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/anchal-0617/Python_Dsa/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1367-linked-list-in-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/anchal-0617/Python_Dsa/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1367-linked-list-in-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/anchal-0617/Python_Dsa/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
