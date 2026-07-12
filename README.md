@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anchal-0617/Python_Dsa/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/anchal-0617/Python_Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/anchal-0617/Python_Dsa/tree/master/0437-path-sum-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anchal-0617/Python_Dsa/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/anchal-0617/Python_Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/anchal-0617/Python_Dsa/tree/master/0437-path-sum-iii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anchal-0617/Python_Dsa/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/anchal-0617/Python_Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/anchal-0617/Python_Dsa/tree/master/0437-path-sum-iii) |
