@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/anchal-0617/Python_Dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1143-longest-common-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anchal-0617/Python_Dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anchal-0617/Python_Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/anchal-0617/Python_Dsa/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anchal-0617/Python_Dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anchal-0617/Python_Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/anchal-0617/Python_Dsa/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
