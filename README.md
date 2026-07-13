@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anchal-0617/Python_Dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
