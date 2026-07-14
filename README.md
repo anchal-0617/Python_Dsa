@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
 | ------- |
