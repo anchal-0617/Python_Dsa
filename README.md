@@ -249,8 +249,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/anchal-0617/Python_Dsa/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0933-number-of-recent-calls](https://github.com/anchal-0617/Python_Dsa/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anchal-0617/Python_Dsa/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anchal-0617/Python_Dsa/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
