@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anchal-0617/Python_Dsa/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/anchal-0617/Python_Dsa/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/anchal-0617/Python_Dsa/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/anchal-0617/Python_Dsa/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/anchal-0617/Python_Dsa/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anchal-0617/Python_Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anchal-0617/Python_Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/anchal-0617/Python_Dsa/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
