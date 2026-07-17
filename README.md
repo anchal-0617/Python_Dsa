@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/anchal-0617/Python_Dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0394-decode-string](https://github.com/anchal-0617/Python_Dsa/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anchal-0617/Python_Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anchal-0617/Python_Dsa/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/anchal-0617/Python_Dsa/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/anchal-0617/Python_Dsa/tree/master/0155-min-stack) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0394-decode-string](https://github.com/anchal-0617/Python_Dsa/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anchal-0617/Python_Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1021-remove-outermost-parentheses) |
