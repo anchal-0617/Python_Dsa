@@ -25,14 +25,25 @@ class Solution(object):
         size = 0
         open = 0
 
+        # for ch in s:
+        #     if ch == "(" :
+        #         open += 1
+
+        #     elif (open > 0):
+        #         open -= 1
+
+        #     else:
+        #         size +=1
+
+        # return open + size      
+
+
         for ch in s:
-            if ch == "(" :
-                open += 1
-
-            elif (open > 0):
-                open -= 1
-
-            else:
-                size +=1
-
-        return open + size                
+            if ch == "(":
+                open+=1
+            if ch == ")":
+                if open<1 :
+                    size += 1
+                else:
+                    open -= 1
+        return open + size                             
