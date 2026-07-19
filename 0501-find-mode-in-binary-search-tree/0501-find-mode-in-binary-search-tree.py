@@ -14,51 +14,77 @@ class Solution(object):
         """
 
 
-        freq = {}
+        # freq = {}
 
-        def dfs(root):
+        # def dfs(root):
+        #     if not root:
+        #         return
+
+        #     freq[root.val] = freq.get(root.val, 0) + 1
+
+        #     dfs(root.left)
+        #     dfs(root.right)
+
+
+        # dfs(root)
+
+        # maxFreq = max(freq.values())
+
+        # ans = []
+
+        # for value, count in freq.items():
+        #     if count == maxFreq:
+        #         ans.append(value)
+
+        # return ans  
+        
+        ans = []
+
+        def solve(root):
             if not root:
                 return
 
-            freq[root.val] = freq.get(root.val, 0) + 1
+            solve(root.left)
+            ans.append(root.val)
+            solve(root.right)
 
-            dfs(root.left)
-            dfs(root.right)
+        solve(root)
 
+        if not ans:
+            return []
 
-        dfs(root)
+        count = 1
+        max_count = 1
 
-        maxFreq = max(freq.values())
+        # First pass: Find maximum frequency
+        for i in range(1, len(ans)):
+            if ans[i] == ans[i - 1]:
+                count += 1
+            else:
+                count = 1
 
-        ans = []
+            max_count = max(max_count, count)
 
-        for value, count in freq.items():
-            if count == maxFreq:
-                ans.append(value)
+        # Second pass: Collect all modes
+        result = []
+        count = 1
 
-        return ans    
-        # def solve(root):
-            
+        if len(ans) == 1:
+            return ans
 
-        #     if not root:
-        #         return 0
+        for i in range(1, len(ans)):
+            if ans[i] == ans[i - 1]:
+                count += 1
+            else:
+                count = 1
 
-        #     solve(root.left)
-        #     ans.append(root.val)
-        #     solve(root.right)
-        # solve(root)    
+            if count == max_count:
+                result.append(ans[i])
 
-        # result = []
-        # count = 1
-        # max_count = float("-inf")
-        # for i in range(1,len(ans)):
-            
-                
-        #     if ans[i] == ans[i-1]:
-        #         count = count+1
-        #     max_count = max(max_count , count)
+        # Handle the case where every element appears once
+        if max_count == 1:
+            return list(set(ans))
 
-        #     return max_count
-        # return solve(root)    
+        return result    
 
 
