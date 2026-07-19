@@ -12,8 +12,8 @@ class Solution(object):
         """
         ans = []
         def inorder(root):
-            if root is None:
-                return 
+            if not root:
+                return None
 
            
 
