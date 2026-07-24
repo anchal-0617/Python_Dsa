@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0238-product-of-array-except-self](https://github.com/anchal-0617/Python_Dsa/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/anchal-0617/Python_Dsa/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/anchal-0617/Python_Dsa/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -338,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
