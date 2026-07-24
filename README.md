@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/anchal-0617/Python_Dsa/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/anchal-0617/Python_Dsa/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1584-min-cost-to-connect-all-points](https://github.com/anchal-0617/Python_Dsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/anchal-0617/Python_Dsa/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anchal-0617/Python_Dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/anchal-0617/Python_Dsa/tree/master/0785-is-graph-bipartite) |
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/anchal-0617/Python_Dsa/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anchal-0617/Python_Dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/anchal-0617/Python_Dsa/tree/master/0785-is-graph-bipartite) |
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/anchal-0617/Python_Dsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Sorting
 |  |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/anchal-0617/Python_Dsa/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
