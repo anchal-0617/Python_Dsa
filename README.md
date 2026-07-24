@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/anchal-0617/Python_Dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/anchal-0617/Python_Dsa/tree/master/0257-binary-tree-paths) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0143-reorder-list) |
