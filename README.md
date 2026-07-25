@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1143-longest-common-subsequence) |
+| [1544-make-the-string-great](https://github.com/anchal-0617/Python_Dsa/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/anchal-0617/Python_Dsa/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1544-make-the-string-great](https://github.com/anchal-0617/Python_Dsa/tree/master/1544-make-the-string-great) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Backtracking
 |  |
