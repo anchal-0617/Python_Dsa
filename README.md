@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/anchal-0617/Python_Dsa/tree/master/0989-add-to-array-form-of-integer) |
+| [0994-rotting-oranges](https://github.com/anchal-0617/Python_Dsa/tree/master/0994-rotting-oranges) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchal-0617/Python_Dsa/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anchal-0617/Python_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/anchal-0617/Python_Dsa/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/anchal-0617/Python_Dsa/tree/master/0994-rotting-oranges) |
 | [1361-validate-binary-tree-nodes](https://github.com/anchal-0617/Python_Dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/anchal-0617/Python_Dsa/tree/master/0994-rotting-oranges) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/1572-matrix-diagonal-sum) |
 ## Heap (Priority Queue)
