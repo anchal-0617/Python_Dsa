@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/anchal-0617/Python_Dsa/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0238-product-of-array-except-self](https://github.com/anchal-0617/Python_Dsa/tree/master/0238-product-of-array-except-self) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anchal-0617/Python_Dsa/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/anchal-0617/Python_Dsa/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/anchal-0617/Python_Dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anchal-0617/Python_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
