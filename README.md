@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/anchal-0617/Python_Dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anchal-0617/Python_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/anchal-0617/Python_Dsa/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1572-matrix-diagonal-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anchal-0617/Python_Dsa/tree/master/1584-min-cost-to-connect-all-points) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/1572-matrix-diagonal-sum) |
 ## Heap (Priority Queue)
 |  |
