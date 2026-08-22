@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anchal-0617/Python_Dsa/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anchal-0617/Python_Dsa/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/anchal-0617/Python_Dsa/tree/master/0844-backspace-string-compare) |
 ## String
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/anchal-0617/Python_Dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anchal-0617/Python_Dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -416,4 +419,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anchal-0617/Python_Dsa/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
