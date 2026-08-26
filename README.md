@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anchal-0617/Python_Dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/anchal-0617/Python_Dsa/tree/master/0131-palindrome-partitioning) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anchal-0617/Python_Dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anchal-0617/Python_Dsa/tree/master/0056-merge-intervals) |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anchal-0617/Python_Dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
