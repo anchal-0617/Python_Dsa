@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anchal-0617/Python_Dsa/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/anchal-0617/Python_Dsa/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/anchal-0617/Python_Dsa/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/anchal-0617/Python_Dsa/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anchal-0617/Python_Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/anchal-0617/Python_Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anchal-0617/Python_Dsa/tree/master/0075-sort-colors) |
+| [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -404,10 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 | [1854-maximum-population-year](https://github.com/anchal-0617/Python_Dsa/tree/master/1854-maximum-population-year) |
 ## Ordered Set
@@ -447,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anchal-0617/Python_Dsa/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
