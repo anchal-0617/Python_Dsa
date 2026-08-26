@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/anchal-0617/Python_Dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/anchal-0617/Python_Dsa/tree/master/1773-count-items-matching-a-rule) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1854-maximum-population-year](https://github.com/anchal-0617/Python_Dsa/tree/master/1854-maximum-population-year) |
 ## Ordered Set
 |  |
