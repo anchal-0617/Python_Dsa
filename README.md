@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/anchal-0617/Python_Dsa/tree/master/1544-make-the-string-great) |
 | [1773-count-items-matching-a-rule](https://github.com/anchal-0617/Python_Dsa/tree/master/1773-count-items-matching-a-rule) |
+| [1903-largest-odd-number-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchal-0617/Python_Dsa/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anchal-0617/Python_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anchal-0617/Python_Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchal-0617/Python_Dsa/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
