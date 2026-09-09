@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anchal-0617/Python_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anchal-0617/Python_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anchal-0617/Python_Dsa/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anchal-0617/Python_Dsa/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anchal-0617/Python_Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/anchal-0617/Python_Dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anchal-0617/Python_Dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anchal-0617/Python_Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anchal-0617/Python_Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -481,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
