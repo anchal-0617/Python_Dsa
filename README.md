@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anchal-0617/Python_Dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anchal-0617/Python_Dsa/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anchal-0617/Python_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anchal-0617/Python_Dsa/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anchal-0617/Python_Dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anchal-0617/Python_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anchal-0617/Python_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
