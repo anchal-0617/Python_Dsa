@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anchal-0617/Python_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/anchal-0617/Python_Dsa/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1480-running-sum-of-1d-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anchal-0617/Python_Dsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anchal-0617/Python_Dsa/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/anchal-0617/Python_Dsa/tree/master/1854-maximum-population-year) |
 ## Tree
 |  |
