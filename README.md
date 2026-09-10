@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1773-count-items-matching-a-rule](https://github.com/anchal-0617/Python_Dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/anchal-0617/Python_Dsa/tree/master/1854-maximum-population-year) |
+| [1929-concatenation-of-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1929-concatenation-of-array) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/anchal-0617/Python_Dsa/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Divide and Conquer
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/anchal-0617/Python_Dsa/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1929-concatenation-of-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1929-concatenation-of-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Topological Sort
 |  |
