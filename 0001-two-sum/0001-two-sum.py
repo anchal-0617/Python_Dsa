@@ -6,9 +6,29 @@ class Solution(object):
         :rtype: List[int]
         """
         
+        # for i in range(len(nums)):
+
+        #     complement = target - nums[i]
+
+        #     if complement in nums and nums.index(complement) != i: 
+        #         return(i,nums.index(complement))
+
+
+        # mp = {}
+
+        # for i in range(len(nums)):
+
+        #     complement = target - nums[i]
+
+        #     if complement in mp:
+        #         return [mp[complement] , i]
+
+        #     mp[nums[i]] = i    
+
+
         for i in range(len(nums)):
+            for j in range(i+1 , len(nums)):
 
-            complement = target - nums[i]
+                if nums[i] + nums[j] ==target:
 
-            if complement in nums and nums.index(complement) != i: 
-                return(i,nums.index(complement))
+                    return (i,j)
