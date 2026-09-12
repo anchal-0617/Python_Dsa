@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/anchal-0617/Python_Dsa/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
+| [0832-flipping-an-image](https://github.com/anchal-0617/Python_Dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/anchal-0617/Python_Dsa/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/anchal-0617/Python_Dsa/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/anchal-0617/Python_Dsa/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/anchal-0617/Python_Dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/anchal-0617/Python_Dsa/tree/master/0989-add-to-array-form-of-integer) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/anchal-0617/Python_Dsa/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/anchal-0617/Python_Dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/anchal-0617/Python_Dsa/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anchal-0617/Python_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/anchal-0617/Python_Dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/anchal-0617/Python_Dsa/tree/master/0994-rotting-oranges) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/anchal-0617/Python_Dsa/tree/master/0832-flipping-an-image) |
 ## Pigeonhole Principle
 |  |
 | ------- |
