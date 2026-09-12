@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anchal-0617/Python_Dsa/tree/master/0994-rotting-oranges) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchal-0617/Python_Dsa/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anchal-0617/Python_Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anchal-0617/Python_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/anchal-0617/Python_Dsa/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/anchal-0617/Python_Dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchal-0617/Python_Dsa/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anchal-0617/Python_Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anchal-0617/Python_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/anchal-0617/Python_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1903-largest-odd-number-in-string) |
