@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anchal-0617/Python_Dsa/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anchal-0617/Python_Dsa/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/anchal-0617/Python_Dsa/tree/master/0066-plus-one) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/anchal-0617/Python_Dsa/tree/master/0735-asteroid-collision) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anchal-0617/Python_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
