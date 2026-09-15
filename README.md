@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/anchal-0617/Python_Dsa/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0119-pascals-triangle-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anchal-0617/Python_Dsa/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/anchal-0617/Python_Dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anchal-0617/Python_Dsa/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/anchal-0617/Python_Dsa/tree/master/0066-plus-one) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anchal-0617/Python_Dsa/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/anchal-0617/Python_Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anchal-0617/Python_Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
