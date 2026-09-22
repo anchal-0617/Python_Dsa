@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anchal-0617/Python_Dsa/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anchal-0617/Python_Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anchal-0617/Python_Dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anchal-0617/Python_Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anchal-0617/Python_Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anchal-0617/Python_Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anchal-0617/Python_Dsa/tree/master/0217-contains-duplicate) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anchal-0617/Python_Dsa/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anchal-0617/Python_Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anchal-0617/Python_Dsa/tree/master/0349-intersection-of-two-arrays) |
