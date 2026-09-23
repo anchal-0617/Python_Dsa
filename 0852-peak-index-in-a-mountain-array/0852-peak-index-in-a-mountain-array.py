@@ -6,22 +6,27 @@ class Solution(object):
         """
 
 
-        # left = 0
-        # right = len(arr)-1
+        left = 0
+        right = len(arr)-1
 
-        # while(left<=right):
+        while(left<right):
 
-        #     mid = (left+right)//2
+            mid = (left+right)//2
 
-        #     if mid <
-        
-        max_element = arr[0]
+            if arr[mid] < arr[mid+1]:
 
-        max_index = 0
-        for i in range(len(arr)):
+                left = mid+1
 
-            if arr[i] > max_element:
-                max_element = arr[i]
-                max_index = i
+            else:
+                right = mid
 
-        return max_index
+        return left            
+
+        # max_index = 0
+        # for i in range(len(arr)):
+
+        #     if arr[i] > max_element:
+        #         max_element = arr[i]
+        #         max_index = i
+
+        # return max_index
