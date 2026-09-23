@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anchal-0617/Python_Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anchal-0617/Python_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/anchal-0617/Python_Dsa/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/anchal-0617/Python_Dsa/tree/master/1389-create-target-array-in-the-given-order) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anchal-0617/Python_Dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anchal-0617/Python_Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/anchal-0617/Python_Dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/anchal-0617/Python_Dsa/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/anchal-0617/Python_Dsa/tree/master/1672-richest-customer-wealth) |
