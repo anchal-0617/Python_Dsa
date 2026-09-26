@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anchal-0617/Python_Dsa/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anchal-0617/Python_Dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anchal-0617/Python_Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
