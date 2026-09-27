@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anchal-0617/Python_Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/anchal-0617/Python_Dsa/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/anchal-0617/Python_Dsa/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anchal-0617/Python_Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/anchal-0617/Python_Dsa/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/anchal-0617/Python_Dsa/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anchal-0617/Python_Dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anchal-0617/Python_Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/anchal-0617/Python_Dsa/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anchal-0617/Python_Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
