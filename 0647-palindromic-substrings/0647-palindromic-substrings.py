@@ -29,6 +29,32 @@ class Solution(object):
                 if t[i][j]:
                     count = count+1
 
-        return count         
+        return count  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         
