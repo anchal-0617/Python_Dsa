@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anchal-0617/Python_Dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1544-make-the-string-great](https://github.com/anchal-0617/Python_Dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/anchal-0617/Python_Dsa/tree/master/1773-count-items-matching-a-rule) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anchal-0617/Python_Dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Array
 |  |
