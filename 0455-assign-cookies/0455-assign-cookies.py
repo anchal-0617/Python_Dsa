@@ -19,5 +19,49 @@ class Solution(object):
 
                 j+=1
 
-        return count            
+        return count      
+
+        # count = 0
+        # g.sort()
+        # s.sort()
+        # for i in range(len(g)):
+
+        #     for j in range(len(s)):
+                
+
+        #         if g[i] <= s[j]:
+
+        #             count +=1 
+        #             s[j]= 0
+        #             break
+
+        # return count                 
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
