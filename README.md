@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/anchal-0617/Python_Dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/anchal-0617/Python_Dsa/tree/master/0844-backspace-string-compare) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anchal-0617/Python_Dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1929-concatenation-of-array) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/anchal-0617/Python_Dsa/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anchal-0617/Python_Dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Divide and Conquer
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/anchal-0617/Python_Dsa/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/anchal-0617/Python_Dsa/tree/master/1854-maximum-population-year) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anchal-0617/Python_Dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/anchal-0617/Python_Dsa/tree/master/1094-car-pooling) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/anchal-0617/Python_Dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anchal-0617/Python_Dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchal-0617/Python_Dsa/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/anchal-0617/Python_Dsa/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anchal-0617/Python_Dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
 | ------- |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anchal-0617/Python_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/anchal-0617/Python_Dsa/tree/master/1094-car-pooling) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anchal-0617/Python_Dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
