@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anchal-0617/Python_Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/anchal-0617/Python_Dsa/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/anchal-0617/Python_Dsa/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/anchal-0617/Python_Dsa/tree/master/0989-add-to-array-form-of-integer) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anchal-0617/Python_Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/anchal-0617/Python_Dsa/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anchal-0617/Python_Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchal-0617/Python_Dsa/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
