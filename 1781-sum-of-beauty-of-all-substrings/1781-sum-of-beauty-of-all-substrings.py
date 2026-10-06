@@ -18,7 +18,14 @@ class Solution(object):
 
                 max_freq = max(freq)
 
-                min_freq = min(x for x in freq if x>0)
+                # min_freq = min(x for x in freq if x>0)
+
+
+                min_freq = float('inf')
+
+                for x in freq:
+                    if x>0:
+                        min_freq = min(min_freq , x)
 
                 ans += max_freq - min_freq
 
