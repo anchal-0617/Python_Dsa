@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anchal-0617/Python_Dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/anchal-0617/Python_Dsa/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/anchal-0617/Python_Dsa/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anchal-0617/Python_Dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0132-palindrome-partitioning-ii) |
