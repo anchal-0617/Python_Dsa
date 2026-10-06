@@ -22,8 +22,8 @@ class Solution(object):
 
         #Without Stack
 
-        size = 0
-        open = 0
+        # size = 0
+        # open = 0
 
         # for ch in s:
         #     if ch == "(" :
@@ -37,7 +37,8 @@ class Solution(object):
 
         # return open + size      
 
-
+        size = 0
+        open = 0
         for ch in s:
             if ch == "(":
                 open+=1
@@ -46,4 +47,11 @@ class Solution(object):
                     size += 1
                 else:
                     open -= 1
-        return open + size                             
+        return open + size        
+
+            
+
+
+
+
+
