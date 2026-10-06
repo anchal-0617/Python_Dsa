@@ -7,11 +7,13 @@ class Solution(object):
 
         words = s.split()
 
-        words.reverse()
+        #words.reverse()
+
+        r_w = words[::-1]
 
         
 
-        return ' '.join(words)    
+        return ' '.join(r_w)    
 
 
 
