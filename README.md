@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anchal-0617/Python_Dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0132-palindrome-partitioning-ii) |
+| [0410-split-array-largest-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anchal-0617/Python_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/0647-palindromic-substrings) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anchal-0617/Python_Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/anchal-0617/Python_Dsa/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/anchal-0617/Python_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/anchal-0617/Python_Dsa/tree/master/0436-find-right-interval) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anchal-0617/Python_Dsa/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anchal-0617/Python_Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/anchal-0617/Python_Dsa/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anchal-0617/Python_Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/anchal-0617/Python_Dsa/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/anchal-0617/Python_Dsa/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anchal-0617/Python_Dsa/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anchal-0617/Python_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anchal-0617/Python_Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anchal-0617/Python_Dsa/tree/master/0621-task-scheduler) |
