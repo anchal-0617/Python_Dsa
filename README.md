@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/anchal-0617/Python_Dsa/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/anchal-0617/Python_Dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/anchal-0617/Python_Dsa/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/anchal-0617/Python_Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/anchal-0617/Python_Dsa/tree/master/1094-car-pooling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anchal-0617/Python_Dsa/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anchal-0617/Python_Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anchal-0617/Python_Dsa/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/anchal-0617/Python_Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anchal-0617/Python_Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
