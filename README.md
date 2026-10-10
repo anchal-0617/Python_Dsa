@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anchal-0617/Python_Dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anchal-0617/Python_Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/anchal-0617/Python_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/anchal-0617/Python_Dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anchal-0617/Python_Dsa/tree/master/1584-min-cost-to-connect-all-points) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anchal-0617/Python_Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anchal-0617/Python_Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/anchal-0617/Python_Dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1901-find-a-peak-element-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
