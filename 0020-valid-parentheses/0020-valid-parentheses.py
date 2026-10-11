@@ -30,7 +30,7 @@ class Solution(object):
                 stack.pop()
 
 
-        return not stack             
+        return  not stack             
 
 
 
