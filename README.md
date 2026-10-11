@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/anchal-0617/Python_Dsa/tree/master/1929-concatenation-of-array) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/anchal-0617/Python_Dsa/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2104-sum-of-subarray-ranges](https://github.com/anchal-0617/Python_Dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anchal-0617/Python_Dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/anchal-0617/Python_Dsa/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Divide and Conquer
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/anchal-0617/Python_Dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2104-sum-of-subarray-ranges](https://github.com/anchal-0617/Python_Dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anchal-0617/Python_Dsa/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anchal-0617/Python_Dsa/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/anchal-0617/Python_Dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anchal-0617/Python_Dsa/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2104-sum-of-subarray-ranges](https://github.com/anchal-0617/Python_Dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
