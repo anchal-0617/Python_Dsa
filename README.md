@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anchal-0617/Python_Dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anchal-0617/Python_Dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/anchal-0617/Python_Dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anchal-0617/Python_Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anchal-0617/Python_Dsa/tree/master/0125-valid-palindrome) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anchal-0617/Python_Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anchal-0617/Python_Dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anchal-0617/Python_Dsa/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anchal-0617/Python_Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anchal-0617/Python_Dsa/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/anchal-0617/Python_Dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anchal-0617/Python_Dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anchal-0617/Python_Dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anchal-0617/Python_Dsa/tree/master/0055-jump-game) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anchal-0617/Python_Dsa/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anchal-0617/Python_Dsa/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anchal-0617/Python_Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anchal-0617/Python_Dsa/tree/master/0143-reorder-list) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anchal-0617/Python_Dsa/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/anchal-0617/Python_Dsa/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/anchal-0617/Python_Dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/anchal-0617/Python_Dsa/tree/master/0496-next-greater-element-i) |
