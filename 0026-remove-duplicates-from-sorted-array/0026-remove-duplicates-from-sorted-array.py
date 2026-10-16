@@ -12,6 +12,7 @@ class Solution(object):
                 i+=1
                 nums[i] = nums[j]
         return i+1
+        
 
                 
 
